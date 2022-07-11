@@ -30,3 +30,8 @@
 - Додамо всі нові зміни в індекс <code>git add .</code>
 - Фіксація змін <code>git commit -m "Start work with branch"</code>
 
+## Створення нової гілки
+- Додамо нову гілку dev <code>git branch dev</code>
+- Переглянемо перелік гілок <code>git branch</code>
+- Перемкнемося на гілку dev <code>git checkout dev</code>
+
