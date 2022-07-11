@@ -43,3 +43,11 @@
 - Додамо всі нові зміни в індекс <code>git add .</code>
 - Комітимо зміни <code>git commit -m "Merge master branch from dev"</code>
 
+## Зливання гілки dev з гілкою master
+- Перемкнемося на гілку dev <code>git checkout dev</code>
+- Перевіримо статус змін гілки master <code>git status</code>
+- Якщо гілка має не зафіксовані зміни їх потрібно завіксувати!
+- Зливаємо гілку master <code>git merge master</code>
+- Додамо всі нові зміни в індекс <code>git add .</code>
+- Комітимо зміни <code>git commit -m "Merge dev branch from master"</code>
+
