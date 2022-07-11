@@ -57,3 +57,6 @@
 - Додамо всі нові зміни в індекс <code>git add .</code>
 - Комітимо зміни <code>git commit -m "Delete branch need_delete"</code>
 
+## Створення конфлікт зливання гілок
+- Додамо всі нові зміни в індекс <code>git add .</code>
+- Комітимо зміни <code>git commit -m "Create merge conflict"</code>
