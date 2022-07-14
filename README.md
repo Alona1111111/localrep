@@ -71,3 +71,8 @@
 - Додамо всі нові зміни в індекс <code>git add .</code>
 - Комітимо зміни <code>git commit -m "Push to remote repository"</code>
 - Відправка змін <code>git push origin master</code>
+
+# Отримання змін з віддаленного репозиторію
+- Перевіримо статус змін гілки master <code>git status</code>
+- Комітимо зміни, якщо вони є <code>git commit -m " Changes"</code>
+- Отримання змін <code>git pull origin master</code>
