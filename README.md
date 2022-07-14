@@ -67,3 +67,7 @@
 Версія з гілки dev
 - строка конфликту  master dev зливання
 
+# Відправлення до віддаленого репозиторію GitHub.com
+- Додамо всі нові зміни в індекс <code>git add .</code>
+- Комітимо зміни <code>git commit -m "Push to remote repository"</code>
+- Відправка змін <code>git push origin master</code>
